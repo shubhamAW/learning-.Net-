@@ -1,0 +1,92 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>cshar_programming</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Day 01\**" />
+    <Compile Remove="Day 02\01 passing arguments to a function\**" />
+    <Compile Remove="Day 02\02 variable scope\**" />
+    <Compile Remove="Day 02\03 optionals parameters\**" />
+    <Compile Remove="Day 02\04 named parameters\**" />
+    <Compile Remove="Day 02\05 recursive function\**" />
+    <Compile Remove="Day 02\06 function overloading\**" />
+    <Compile Remove="Day 02\07 arrays\**" />
+    <Compile Remove="Day 02\08 goto\**" />
+    <Compile Remove="Day 02\09 commandline arguments\**" />
+    <Compile Remove="Day 03\01 enumerations\**" />
+    <Compile Remove="Day 03\02 namespaces\**" />
+    <Compile Remove="Day 03\03 fields\**" />
+    <Compile Remove="Day 03\04 properties\**" />
+    <Compile Remove="Day 03\05 anonymous types\**" />
+    <Compile Remove="Day 03\06 methods\**" />
+    <Compile Remove="Day 03\07 constructor\**" />
+    <Compile Remove="Day 03\08 destructor\**" />
+    <EmbeddedResource Remove="Day 01\**" />
+    <EmbeddedResource Remove="Day 02\01 passing arguments to a function\**" />
+    <EmbeddedResource Remove="Day 02\02 variable scope\**" />
+    <EmbeddedResource Remove="Day 02\03 optionals parameters\**" />
+    <EmbeddedResource Remove="Day 02\04 named parameters\**" />
+    <EmbeddedResource Remove="Day 02\05 recursive function\**" />
+    <EmbeddedResource Remove="Day 02\06 function overloading\**" />
+    <EmbeddedResource Remove="Day 02\07 arrays\**" />
+    <EmbeddedResource Remove="Day 02\08 goto\**" />
+    <EmbeddedResource Remove="Day 02\09 commandline arguments\**" />
+    <EmbeddedResource Remove="Day 03\01 enumerations\**" />
+    <EmbeddedResource Remove="Day 03\02 namespaces\**" />
+    <EmbeddedResource Remove="Day 03\03 fields\**" />
+    <EmbeddedResource Remove="Day 03\04 properties\**" />
+    <EmbeddedResource Remove="Day 03\05 anonymous types\**" />
+    <EmbeddedResource Remove="Day 03\06 methods\**" />
+    <EmbeddedResource Remove="Day 03\07 constructor\**" />
+    <EmbeddedResource Remove="Day 03\08 destructor\**" />
+    <None Remove="Day 01\**" />
+    <None Remove="Day 02\01 passing arguments to a function\**" />
+    <None Remove="Day 02\02 variable scope\**" />
+    <None Remove="Day 02\03 optionals parameters\**" />
+    <None Remove="Day 02\04 named parameters\**" />
+    <None Remove="Day 02\05 recursive function\**" />
+    <None Remove="Day 02\06 function overloading\**" />
+    <None Remove="Day 02\07 arrays\**" />
+    <None Remove="Day 02\08 goto\**" />
+    <None Remove="Day 02\09 commandline arguments\**" />
+    <None Remove="Day 03\01 enumerations\**" />
+    <None Remove="Day 03\02 namespaces\**" />
+    <None Remove="Day 03\03 fields\**" />
+    <None Remove="Day 03\04 properties\**" />
+    <None Remove="Day 03\05 anonymous types\**" />
+    <None Remove="Day 03\06 methods\**" />
+    <None Remove="Day 03\07 constructor\**" />
+    <None Remove="Day 03\08 destructor\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Day 03\04 properties\03 auto implemented property\CodeFile01.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Day 01\12 input output\" />
+    <Folder Include="Day 01\14 conditional operator\" />
+    <Folder Include="Day 01\15 if else switch\" />
+    <Folder Include="Day 01\Practice\" />
+    <Folder Include="Day 02\07 arrays\05 jagged array of value type\" />
+    <Folder Include="Day 02\07 arrays\06 jagged array of reference type\" />
+    <Folder Include="Day 02\07 arrays\07 using array class\" />
+    <Folder Include="Day 02\08 goto\" />
+    <Folder Include="Day 02\09 commandline arguments\" />
+    <Folder Include="Day 03\01 enumerations\" />
+    <Folder Include="Day 03\02 namespaces\" />
+    <Folder Include="Day 03\03 fields\01 defining field with field initializer\" />
+    <Folder Include="Day 03\03 fields\02 readonly field\" />
+    <Folder Include="Day 03\03 fields\03 volatile field\" />
+    <Folder Include="Day 03\03 fields\04 static field\" />
+    <Folder Include="Day 03\04 properties\01 using accessor and mutator\" />
+    <Folder Include="Day 03\04 properties\02 readwrite property\" />
+  </ItemGroup>
+
+</Project>

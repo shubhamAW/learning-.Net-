@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cshar-programming", "cshar-programming\cshar-programming.csproj", "{E1978D95-17C6-4A35-B1CE-8BE3A576EF9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1978D95-17C6-4A35-B1CE-8BE3A576EF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1978D95-17C6-4A35-B1CE-8BE3A576EF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1978D95-17C6-4A35-B1CE-8BE3A576EF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1978D95-17C6-4A35-B1CE-8BE3A576EF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB56A122-A8DC-43B0-B121-3C22E26D7042}
+	EndGlobalSection
+EndGlobal

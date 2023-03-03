@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\pratiti_training\dotnet-programming\cshar-programming\obj\Debug\net6.0\cshar-programming.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\pratiti_training\dotnet-programming\cshar-programming\obj\Debug\net6.0\cshar-programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\pratiti_training\dotnet-programming\cshar-programming\obj\Debug\net6.0\cshar-programming.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\pratiti_training\dotnet-programming\cshar-programming\obj\Debug\net6.0\cshar-programming.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\pratiti_training\dotnet-programming\cshar-programming\obj\Debug\net6.0\cshar-programming.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\pratiti_training\dotnet-programming\cshar-programming\bin\Debug\net6.0\cshar-programming.exe
+C:\Users\Lenovo\Documents\pratiti_training\dotnet-programming\cshar-programming\bin\Debug\net6.0\cshar-programming.deps.json
+C:\Users\Lenovo\Documents\pratiti_training\dotnet-programming\cshar-programming\bin\Debug\net6.0\cshar-programming.runtimeconfig.json
+C:\Users\Lenovo\Documents\pratiti_training\dotnet-programming\cshar-programming\bin\Debug\net6.0\cshar-programming.dll
+C:\Users\Lenovo\Documents\pratiti_training\dotnet-programming\cshar-programming\bin\Debug\net6.0\cshar-programming.pdb
+C:\Users\Lenovo\Documents\pratiti_training\dotnet-programming\cshar-programming\obj\Debug\net6.0\cshar-programming.dll
+C:\Users\Lenovo\Documents\pratiti_training\dotnet-programming\cshar-programming\obj\Debug\net6.0\refint\cshar-programming.dll
+C:\Users\Lenovo\Documents\pratiti_training\dotnet-programming\cshar-programming\obj\Debug\net6.0\cshar-programming.pdb
+C:\Users\Lenovo\Documents\pratiti_training\dotnet-programming\cshar-programming\obj\Debug\net6.0\cshar-programming.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\pratiti_training\dotnet-programming\cshar-programming\obj\Debug\net6.0\ref\cshar-programming.dll
